@@ -1,0 +1,53 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Baloo Bhai 2', cursive; */
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+font-family: 'Montserrat', sans-serif;
+font-size: 3rem;
+line-height: 1.5;
+}
+
+/* Navigation bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat-Light';
+}
+
+/* Click here button */
+.click-here-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.title-image {
+  width: 457px;
+  height: 420px;
+  /* transform: rotate(25deg); */
+}
+
